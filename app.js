@@ -110,7 +110,11 @@ const html = `
   <div class="card">
     <div class="status">Live on AWS EC2</div>
     <h1>Kingsley Evans</h1>
-    <h2>Node.js Portfolio Deployment Project</h2>
+<p>Node.js Portfolio Deployment Project</p>
+
+<p style="color: #22c55e; font-weight: bold;">
+  🚀 Deployed automatically with GitHub Actions
+</p>
 
 <p>
   <strong>Public URL:</strong>
