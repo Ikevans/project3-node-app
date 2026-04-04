@@ -113,7 +113,7 @@ const html = `
 <p>Node.js Portfolio Deployment Project</p>
 
 <p style="color: #22c55e; font-weight: bold;">
-  🚀 Deployed automatically with GitHub Actions
+  🚀 Deployed automatically with GitHub Actions (Updated)
 </p>
 
 <p>
