@@ -55,15 +55,15 @@ Any changes pushed to GitHub are automatically deployed to the live server, remo
 
 ### ⚙️ GitHub Actions Running
 
-![Running](screenshots/project6/project6-actions-running.png)
+<img width="940" height="296" alt="image" src="https://github.com/user-attachments/assets/388df372-6281-4c7a-b26f-882ffbd8f0ab" />
 
 ### ✅ GitHub Actions Success
 
-![Success](screenshots/project6/project6-actions-success.png)
+<img width="940" height="296" alt="image" src="https://github.com/user-attachments/assets/607d16af-5acb-41c0-9e13-c8e0d37719fc" />
 
 ### 📝 Commit History
 
-![Commit](screenshots/project6/project6-commit.png)
+<img width="1914" height="723" alt="image" src="https://github.com/user-attachments/assets/3e6c2aa6-36cc-4b58-abae-d4fd22f70d02" />
 
 ### 🌐 Live Application
 
